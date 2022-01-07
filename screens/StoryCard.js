@@ -142,7 +142,7 @@ const styles = StyleSheet.create({
   cardContainerLight: {
     margin: RFValue(13),
 
-    backgroundColor: "white",
+    backgroundColor: "#2f345d",
     borderRadius: RFValue(20),
     shadowColor: "rgb(0, 0, 0)",
     shadowOffset: {
